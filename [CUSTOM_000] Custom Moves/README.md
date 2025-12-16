@@ -55,8 +55,6 @@ código base del engine.
   handlers IA o PBS entries.
 - Para pruebas rápidas, usa `VALIDATION.rb` y `pbTestCustomMoves`.
 
-## Licencia
-- Añade un `LICENSE` (recomiendo MIT) si vas a publicar en GitHub.
 
 ## Contacto
 Autor: Fr0yyyy
