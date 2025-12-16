@@ -45,10 +45,6 @@ Contribuir
 Si quieres colaborar, crea un fork y abre un pull request. Revisa `README` del
 plugin que quieras mejorar para instrucciones específicas.
 
-Licencia
-========
-Por defecto, el código de ejemplo y los plugins en este repo no incluyen una
-licencia explícita. Si quieres publicar, añade un `LICENSE` (recomiendo MIT).
 
 Contacto
 =======
