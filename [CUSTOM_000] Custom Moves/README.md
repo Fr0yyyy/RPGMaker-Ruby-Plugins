@@ -56,10 +56,4 @@ código base del engine.
 - Para pruebas rápidas, usa `VALIDATION.rb` y `pbTestCustomMoves`.
 
 
-## Contacto
-Autor: Fr0yyyy
 
----
-
-Si quieres, puedo preparar los archivos auxiliares (`LICENSE`, `.gitignore`),
-un workflow de GitHub Actions para validar sintaxis Ruby y un `CHANGELOG`.
